@@ -1,9 +1,0 @@
-\select@language {spanish}
-\contentsline {chapter}{\numberline {1}Mec\IeC {\'a}nica}{3}
-\contentsline {section}{\numberline {1.1}Mec\IeC {\'a}nica de Juego}{3}
-\contentsline {section}{\numberline {1.2}Mec\IeC {\'a}nica de Combate}{4}
-\contentsline {subsection}{\numberline {1.2.1}Ataques f\IeC {\'\i }sicos}{4}
-\contentsline {subsection}{\numberline {1.2.2}Ataques a distancia}{5}
-\contentsline {subsection}{\numberline {1.2.3}Ataques m\IeC {\'a}gicos}{5}
-\contentsline {section}{\numberline {1.3}Frikipuntos de experiencia}{6}
-\contentsline {section}{\numberline {1.4}Nenificar}{6}
